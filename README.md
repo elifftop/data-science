@@ -7,3 +7,5 @@
 - [Exercise for Week-1](Exercises/Week-1/week-1-exercise.ipynb)
 
 ## Week 2
+- [Python Data Types-2](Weeks/Week-2/2-python-data-types.ipynb)
+- [Python Classes](Weeks/Week-2/2-python-classes.ipynb)
