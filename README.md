@@ -9,3 +9,5 @@
 ## Week 2
 - [Python Data Types-2](Weeks/Week-2/2-python-data-types.ipynb)
 - [Python Classes](Weeks/Week-2/2-python-classes.ipynb)
+- [Numpy](Weeks/Week-2/2-numpy.ipynb)
+- [Pandas Series](Weeks/Week-2/2-pandas-series.ipynb)
