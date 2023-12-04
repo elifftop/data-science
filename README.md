@@ -11,3 +11,4 @@
 - [Python Classes](Weeks/Week-2/2-python-classes.ipynb)
 - [Numpy](Weeks/Week-2/2-numpy.ipynb)
 - [Pandas Series](Weeks/Week-2/2-pandas-series.ipynb)
+- [Pandas Dataframes](Weeks/Week-2/2-pandas-dataframes.ipynb)
